@@ -41,3 +41,18 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX/Design specs reviewed before development begins
+- [ ] Security and compliance requirements identified
+- [ ] Operational readiness criteria defined
+
+## Cross-functional Collaboration at Planning
+| Activity | Primary Owner | Supporting Roles |
+|---|---|---|
+| Kickoff meeting | Project Manager | All team roles |
+| Backlog prioritization | Product Manager | Technical Lead, UX/Design |
+| Technical scoping | Technical Lead | Developers, Security/Compliance |
+| Risk identification | Project Manager | Technical Lead, Delivery Coordinator |
+| Test plan | QA/Testing | Developers, UX/Design |
+| Compliance review | Security/Compliance | Technical Lead |
+
+> See [octoacme-role-collaboration-checklist.md](octoacme-role-collaboration-checklist.md) for a full ownership and handoff checklist.

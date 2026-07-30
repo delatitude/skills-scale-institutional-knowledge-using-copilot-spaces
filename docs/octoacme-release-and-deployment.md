@@ -14,6 +14,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- Security/Compliance Representative sign-off on any security-relevant changes
+- Operations/Support Representative confirms observability and runbooks are ready
+- UX/Design Representative confirms design fidelity and accessibility
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
@@ -22,6 +25,10 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+- [ ] Operations/Support Representative confirms monitoring and alerting active
+- [ ] Security/Compliance Representative confirms compliance controls validated
+
+> See [octoacme-role-collaboration-checklist.md](octoacme-role-collaboration-checklist.md) for release-phase ownership and handoff readiness checks.
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:

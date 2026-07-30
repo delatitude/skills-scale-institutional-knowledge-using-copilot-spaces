@@ -39,4 +39,16 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, follow the security incident runbook and notify Security/Compliance Representative and on-call
+- For operational/production issues, notify Operations/Support Representative and follow the incident runbook
+- For cross-team dependency blockers, escalate through Delivery/Program Coordinator
+
+## Risk Ownership by Role
+| Risk Type | Primary Owner | Escalation |
+|---|---|---|
+| Schedule / resource | Project Manager | Sponsor |
+| Technical / architecture | Technical Lead | Product Lead |
+| Security / compliance | Security/Compliance Representative | Sponsor / Legal |
+| Operational / reliability | Operations/Support Representative | Technical Lead |
+| UX / usability | UX/Design Representative | Product Manager |
+| Cross-team dependency | Delivery/Program Coordinator | Project Manager |

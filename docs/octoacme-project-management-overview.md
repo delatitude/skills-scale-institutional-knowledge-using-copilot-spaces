@@ -19,6 +19,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Delivery/Program Coordinator: manages cross-team dependencies, program status, and milestone logistics.
+- Technical Lead / Engineering Lead: owns technical direction, architecture decisions, and engineering standards.
+- UX/Design Representative: ensures usability, accessibility, and design consistency.
+- Security/Compliance Representative: manages security requirements, compliance controls, and incident escalation.
+- Operations/Support Representative: ensures operational readiness, observability, and support preparedness.
+
+> See [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) for full role definitions and interaction maps.
 
 ## Key Artifacts
 - Project Charter / One-pager

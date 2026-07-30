@@ -38,3 +38,15 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Security scanning configured in CI (Security/Compliance sign-off)
+- [ ] Observability and alerting in place (Operations/Support sign-off)
+- [ ] UX/Design review completed before feature acceptance
+
+## Cross-functional Collaboration at Execution
+- **Technical Lead** leads code and design reviews; communicates technical risks to PM.
+- **UX/Design Representative** reviews implementations for fidelity and accessibility before QA sign-off.
+- **Security/Compliance Representative** reviews PRs involving sensitive data, auth, or infrastructure changes.
+- **Operations/Support Representative** is consulted on observability instrumentation and runbook preparation.
+- **Delivery/Program Coordinator** tracks cross-team dependencies and escalates blockers to the PM.
+
+> See [octoacme-role-collaboration-checklist.md](octoacme-role-collaboration-checklist.md) for execution-phase ownership and handoff guidance.
